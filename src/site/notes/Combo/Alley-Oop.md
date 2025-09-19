@@ -5,12 +5,12 @@
 ![alley-oop.png](/img/user/!source/alley-oop.png)
 # Alley-Oop
 
-> [!example] Notation
-> **/**/  -> s | c ... D J F !
+> [!info] Notation
+> > [!example] **/**/ s -> c ... D J F !
 > 
 > where ! is "move the structure behind and above you".
 
-Can be done on a free, horizontal wall or on your own cube launch. This move uses a launched structure and flails down and up above the head and dunks it on the opponent.
+Can be done on a free, horizontal wall or on your own cube launch. This move uses a launched structure and flails down and up above the head and dunks it on the opponent. 
 
 **You can add a combo onto the launching cube for a 2-way attack.**
 
@@ -29,12 +29,12 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
 ## Popular Variations
 
 #### BoredYoshi's Launchless Kickercut
+> [!example]  **/**/ s -> *KU* D J F !
 \+ Faster setup.
 \- No second cube attacking with you.
-![[kickercut_alleyoop_boredyoshi.mp4]]
 #### Launchless Upperkick
+> [!example]  **/**/ s -> *UK* ... D J F !
 \+ Easy for beginners.
 \- No second cube attacking with you.
 \- Not as fast as the Kickercut variation.
-![[maple_upperkick_alleyoop.mp4]]
 
