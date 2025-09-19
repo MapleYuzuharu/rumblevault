@@ -14,7 +14,12 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
 
 **You can add a combo onto the launching cube for a 2-way attack.**
 
- ![[clip_alleyoop.mp4]]- Self-setup that uses the launch cube as a 2-way attack.
+<video controls loop autoplay muted>  
+  <source src="https://files.catbox.moe/87h8sp.mp4" type="video/mp4">  
+  Your browser does not support the video tag.  
+</video>
+ - Self-setup that uses the launch cube as a 2-way attack.
+
 ### Move Information
 **Inventor** : shoeless
 **School** : Shoeless Dojo
