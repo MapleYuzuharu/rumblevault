@@ -5,8 +5,8 @@
 ![alley-oop.png](/img/user/!source/alley-oop.png)
 # Alley-Oop
 
-> [!note] Notation
-> **//**  -> s | c ... DJ F !
+> [!example] Notation
+> **/**/  -> s | c ... D J F !
 > 
 > where ! is "move the structure behind and above you".
 
