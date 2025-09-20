@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/combo/alley-oop/"}
 ---
 
-![alley-oop.png](/img/user/!source/alley-oop.png)
+
+
+![[alley-oop.png#outline]]
 > [!example] Alley-Oop
 > > **/**/ s -> c ... D J F !
 > 
