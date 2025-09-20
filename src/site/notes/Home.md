@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
 # Maple's RUMBLE Vault
@@ -8,27 +8,14 @@ w.i.p
 
 
 
-```base
-properties:
-  file.folder:
-    displayName: Type
-views:
-  - type: cards
-    name: Gallery
-    filters:
-      or:
-        - file.inFolder("Combo")
-        - file.inFolder("Player")
-        - file.inFolder("Fact")
-    order:
-      - file.name
-      - file.folder
-    sort:
-      - property: file.folder
-        direction: DESC
-    image: note.Image
-    cardSize: 200
-    imageAspectRatio: 1
-    imageFit: ""
+> [!info] Combos
+>  - [[Combo/Alley-Oop\|Alley-Oop]]
+> - [[Combo/Flick God Full Ascension\|Flick God Full Ascension]]
+> - [[Combo/Puppet Master\|Puppet Master]]
+> - [[Combo/Tidal Pull\|Tidal Pull]]
+> 
+{ .block-language-dataview}
 
-```
+
+
+
