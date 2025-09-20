@@ -8,12 +8,12 @@ Most rumblers will be able to understand my notation if they know the original n
 
 **Table of Contents**
 - [[NotationGuide#Basic Notation\|Basic Notation]]
-- [[#Notation Order|Notation Order]]
-- [[#Pre-Game Notation (Shiftstones)|Pre-Game Notation (Shiftstones)]]
-- [[#Setup Notation|Setup Notation]]
-- [[#! Notation|! Notation]]
-- [[#Alternates Notation|Alternates Notation]]
-- [[#Vocal Notation|Vocal Notation]]
+- [[NotationGuide#Notation Order\|Notation Order]]
+- [[NotationGuide#Pre-Game Notation (Shiftstones)\|Pre-Game Notation (Shiftstones)]]
+- [[NotationGuide#Setup Notation\|Setup Notation]]
+- [[NotationGuide#! Notation\|! Notation]]
+- [[NotationGuide#Alternates Notation\|Alternates Notation]]
+- [[NotationGuide#Vocal Notation\|Vocal Notation]]
 
 
 Disclaimer: While this notation is robust and formal, it should not be expected to be used outside of this vault. It was made for formal documentation, not casual speech.
