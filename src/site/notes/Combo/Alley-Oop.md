@@ -3,9 +3,7 @@
 ---
 
 ![alley-oop.png](/img/user/!source/alley-oop.png)
-# Alley-Oop
-
-> [!info] Notation
+> [!example] Alley-Oop
 > > **/**/ s -> c ... D J F !
 > 
 > where ! is "move the structure behind and above you".
@@ -28,14 +26,13 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
 
 ## Popular Variations
 
-#### BoredYoshi's Launchless Kickercut
-> [!example] Notation
+> [!example] Launchless Kickercut
 > > **/**/ s -> *KU* D J F !
 > 
 \+ Faster setup.
 \- No second cube attacking with you.
-#### Launchless Upperkick
-> [!example] Notation
+
+> [!example] Launchless Upperkick
 > > **/**/ s -> *UK* ... D J F !
 >
 \+ Easy for beginners.

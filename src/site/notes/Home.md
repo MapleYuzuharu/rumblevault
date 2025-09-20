@@ -3,3 +3,5 @@
 ---
 
 [[Combo/Alley-Oop\|Alley-Oop]]
+
+![[Index.base]]
