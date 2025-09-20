@@ -6,8 +6,8 @@
 ![alley-oop.png](/img/user/!source/alley-oop.png)
 > [!example] Alley-Oop
 > -  **/**/ s -> c ... D J F !
-> 
-> where ! is "move the structure behind and above you".
+>
+> where ! is "move the structure behind and above you"
 
 Can be done on a free, horizontal wall or on your own cube launch. This move uses a launched structure and flails down and up above the head and dunks it on the opponent. 
 
@@ -19,10 +19,15 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
 </video>
  - Self-setup that uses the launch cube as a 2-way attack. Performed by tb780
 
-### Move Information
+## Move Information
 **Inventor** : shoeless
 **School** : Shoeless Dojo
-**Style** : [[Fact/Styles#**Airbending**\|Airbending]]
+**Style** : Aerial
+
+### Tutorial
+> Coming soon...
+> Expect elaborate, detailed demonstrations for each move.
+> Main priority is documentation first lol
 
 
 ## Popular Variations

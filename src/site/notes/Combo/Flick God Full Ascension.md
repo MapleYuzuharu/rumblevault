@@ -16,8 +16,13 @@ With flow stone equipped, dash jump, double jump and then flick an incoming stru
 </video>
  - Flick God Full Ascension on Client in a lab setting. Performed by DizzyDreaming
 
-### Move Information
+## Move Information
 **Inventor** : shoeless
 **School** : Shoeless Dojo
-**Style** : [[Fact/Styles#**Cloudbending**\|Cloudbending]]
+**Style** : Super-Aerial
 *Must be hit in a valid match against a black belt to qualify for the title of "Ascended" inside the Shoeless Dojo.*
+
+### Tutorial
+> Coming soon...
+> Expect elaborate, detailed demonstrations for each move.
+> Main priority is documentation first lol
