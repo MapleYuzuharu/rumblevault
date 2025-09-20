@@ -5,7 +5,7 @@
 
 ![alley-oop.png](/img/user/!source/alley-oop.png)
 > [!example] Alley-Oop
-> > **/**/ s -> c ... D J F !
+> -  **/**/ s -> c ... D J F !
 > 
 > where ! is "move the structure behind and above you".
 
@@ -17,7 +17,7 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
   <source src="https://files.catbox.moe/87h8sp.mp4" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>
- - Self-setup that uses the launch cube as a 2-way attack.
+ - Self-setup that uses the launch cube as a 2-way attack. Performed by tb780
 
 ### Move Information
 **Inventor** : shoeless
@@ -28,14 +28,12 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
 ## Popular Variations
 
 > [!example] Launchless Kickercut
-> > **/**/ s -> *KU* D J F !
-> 
+> - **/**/ s -> *KU* D J F !
 \+ Faster setup.
 \- No second cube attacking with you.
 
 > [!example] Launchless Upperkick
-> > **/**/ s -> *UK* ... D J F !
->
+> - **/**/ s -> *UK* ... D J F !
 \+ Easy for beginners.
 \- No second cube attacking with you.
 \- Not as fast as the Kickercut variation.

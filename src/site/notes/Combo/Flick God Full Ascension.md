@@ -4,12 +4,18 @@
 
 \[image is wip\]
 
-> [!note] Notation
-> **F/** {c/w} > D JJ F1 B
+> [!example] Flick God Full Ascension
+> - **F**/ {c/w}1 -> D JJ F1 B
 
 With flow stone equipped, dash jump, double jump and then flick an incoming structure of cube or above in durability, then bump yourself in any direction before landing the structure on your opponent as you land.
 
-![[fgfa_yogev.mp4]] - Flick God Full Ascension on Client in a lab setting.
+
+<video controls loop autoplay muted>  
+  <source src="https://files.catbox.moe/jzviqk.mp4" type="video/mp4">  
+  Your browser does not support the video tag.  
+</video>
+ - Flick God Full Ascension on Client in a lab setting. Performed by DizzyDreaming
+
 ### Move Information
 **Inventor** : shoeless
 **School** : Shoeless Dojo
