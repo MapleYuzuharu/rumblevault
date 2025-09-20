@@ -14,10 +14,10 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
 **You can add a combo onto the launching cube for a 2-way attack.**
 
 <video controls loop autoplay muted>  
-  <source src="https://files.catbox.moe/87h8sp.mp4" type="video/mp4">  
+  <source src="https://files.catbox.moe/1r507y.mp4" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>
- - Self-setup that uses the launch cube as a 2-way attack. Performed by tb780
+ - Original cube launched wall alley-oop by shoeless. Performed by Maple
 
 ## Move Information
 **Inventor** : shoeless
@@ -31,6 +31,11 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
 
 
 ## Popular Variations
+
+> [!example] Self-served Alley-oop
+> - **/**/ -> c *c* ... D J F !
+\+ Does not need a wall laying down already horizontally in front of you.
+\- Not as much damage.
 
 > [!example] Launchless Kickercut
 > - **/**/ s -> *KU* D J F !

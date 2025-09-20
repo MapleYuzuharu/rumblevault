@@ -57,7 +57,7 @@ R - Run
 J - Jump
 D - Dash
 B - Bump yourself with a structure
-M - Mount a structure
+M - Mount a structure in the air (denotes flight)
 W - Walk
 T - Pivot/Turn
 U - Quick Turn (180-turn)
