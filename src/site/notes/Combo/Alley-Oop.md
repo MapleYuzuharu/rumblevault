@@ -32,6 +32,25 @@ Can be done on a free, horizontal wall or on your own cube launch. This move use
 > Expect elaborate, detailed demonstrations for each move.
 > Main priority is documentation first lol
 
+## Popular Variations
+
+> [!example] Self-served Alley-oop
+> - **/**/ -> c *c* ... D J F !
+\+ Does not need a wall laying down already horizontally in front of you.
+\- Not as much damage.
+
+> [!example] Launchless Kickercut
+> - **/**/ s -> *KU* D J F !
+\+ Faster setup.
+\- No second cube attacking with you.
+
+> [!example] Launchless Upperkick
+> - **/**/ s -> *UK* ... D J F !
+\+ Easy for beginners.
+\- No second cube attacking with you.
+\- Not as fast as the Kickercut variation.
+
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/notation-guide/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -210,22 +229,3 @@ It is a separate, optional transition step, so there must be a second ' -> ' in 
 
 
 </div></div>
-
-## Popular Variations
-
-> [!example] Self-served Alley-oop
-> - **/**/ -> c *c* ... D J F !
-\+ Does not need a wall laying down already horizontally in front of you.
-\- Not as much damage.
-
-> [!example] Launchless Kickercut
-> - **/**/ s -> *KU* D J F !
-\+ Faster setup.
-\- No second cube attacking with you.
-
-> [!example] Launchless Upperkick
-> - **/**/ s -> *UK* ... D J F !
-\+ Easy for beginners.
-\- No second cube attacking with you.
-\- Not as fast as the Kickercut variation.
-

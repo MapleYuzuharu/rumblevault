@@ -28,6 +28,39 @@ With flow stone equipped, dash jump, double jump and then flick an incoming stru
 > Main priority is documentation first lol
 
 
+## Popular Variations
+If you are wondering why some moves like **Weaver of Fate** are not in this list:
+Variations specifically refer to slight changes and adjustments to move.
+Weavers are a special category of FGFA plus another move alongside it.
+> I'll add a way to sort through specifically Weaver combos later :p
+
+> [!example] Flick God Partial Ascension
+> - **F**/ {c/w}1 -> D JJ F1
+> \- or -
+> - **F**/ {p/b/d}1 -> D JJ F1 B
+> 
+> If a single component of FGFA is missing, it is a Partial Ascension. 
+> The structure being something below a cube in durability counts as a missing component.
+
+> [!example] Hold-to-Flick Pipeline
+> - **/**/ {c/w}1 "(s)"2 -> D J M2 B F1
+> 
+> Substitutes the Flowstone double jump with a hold flight bump.
+
+> [!example] Apotheosis
+> - **F**/ {c/w}1 {c/w}2 -> D JJ F1 B F2 B
+> 
+> This variation is not well documented. I apologize if the notation is incorrect.
+> Once further documented, the move will likely get its own page.
+> 
+> This is an **incredibly** difficult move to land.
+> Do note that, from what has been documented, flying on the first structure for more than a second invalidates the move. Hence the lack of an **M** in the notation.
+
+> A few weavers **might** fall under the classification of variation, such as Chaos Weaver.
+> So expect this section to change a lot.
+
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/notation-guide/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -205,34 +238,3 @@ It is a separate, optional transition step, so there must be a second ' -> ' in 
 
 
 </div></div>
-
-## Popular Variations
-If you are wondering why some moves like **Weaver of Fate** are not in this list:
-Variations specifically refer to slight changes and adjustments to move.
-Weavers are a special category of FGFA plus another move alongside it.
-> I'll add a way to sort through specifically Weaver combos later :p
-
-> [!example] Flick God Partial Ascension
-> - **F**/ {c/w}1 -> D JJ F1
-> \- or -
-> - **F**/ {p/b/d}1 -> D JJ F1 B
-> 
-> If a single component of FGFA is missing, it is a Partial Ascension. 
-> The structure being something below a cube in durability counts as a missing component.
-
-> [!example] Hold-to-Flick Pipeline
-> - **/**/ {c/w}1 "(s)"2 -> D J M2 B F1
-> 
-> Substitutes the Flowstone double jump with a hold flight bump.
-
-> [!example] Apotheosis
-> - **F**/ {c/w}1 {c/w}2 -> D JJ F1 B F2 B
-> 
-> This variation is not well documented. I apologize if the notation is incorrect.
-> Once further documented, the move will likely get its own page.
-> 
-> This is an **incredibly** difficult move to land.
-> Do note that, from what has been documented, flying on the first structure for more than a second invalidates the move. Hence the lack of an **M** in the notation.
-
-> A few weavers **might** fall under the classification of variation, such as Chaos Weaver.
-> So expect this section to change a lot.
