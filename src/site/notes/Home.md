@@ -6,7 +6,11 @@
 
 w.i.p
 
-
+```button
+name **Notation Guide**
+type link
+action https://rumblevault.vercel.app/NotationGuide
+```
 
 > [!info] Combos
 >  - [[Combo/Alley-Oop\|Alley-Oop]]
