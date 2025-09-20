@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":"true","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Maple's RUMBLE Vault

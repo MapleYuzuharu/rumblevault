@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combo/alley-oop/"}
+{"Image":"!source/alley-oop.png","dg-publish":true,"permalink":"/combo/alley-oop/","dgPassFrontmatter":true}
 ---
 
 ![alley-oop.png](/img/user/!source/alley-oop.png)
