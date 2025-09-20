@@ -7,7 +7,7 @@ Wanting a robust, extremely clear notation system for my vault, I've modified th
 Most rumblers will be able to understand my notation if they know the original notation, but incase you ever get confused, these are the exact specifics of Maple Notation.
 
 **Table of Contents**
-- [[#Basic Notation|Basic Notation]]
+- [[NotationGuide#Basic Notation\|Basic Notation]]
 - [[#Notation Order|Notation Order]]
 - [[#Pre-Game Notation (Shiftstones)|Pre-Game Notation (Shiftstones)]]
 - [[#Setup Notation|Setup Notation]]
