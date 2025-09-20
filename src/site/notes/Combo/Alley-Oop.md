@@ -4,7 +4,7 @@
 
 
 ![alley-oop.png](/img/user/!source/alley-oop.png)
-> [!abstract] Alley-Oop
+> [!example] Alley-Oop
 > -  **/**/ s -> c ... D J F !
 >
 > where ! is "move the structure behind and above you"
