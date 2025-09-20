@@ -3,8 +3,7 @@
 ---
 
 
-
-![[alley-oop.png#outline]]
+![alley-oop.png](/img/user/!source/alley-oop.png)
 > [!example] Alley-Oop
 > > **/**/ s -> c ... D J F !
 > 
