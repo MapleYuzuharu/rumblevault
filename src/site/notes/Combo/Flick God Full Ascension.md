@@ -14,7 +14,7 @@ With flow stone equipped, dash jump, double jump and then flick an incoming stru
   <source src="https://files.catbox.moe/jzviqk.mp4" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>
- - Flick God Full Ascension on Client in a lab setting. Performed by DizzyDreaming*?*
+ - Flick God Full Ascension on Client in a lab setting. Performed by DizzyDreaming(?)
 
 ## Move Information
 **Inventor** : shoeless
