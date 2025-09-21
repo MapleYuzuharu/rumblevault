@@ -5,7 +5,7 @@
 \[image is wip\]
 
 > [!example] Flick God Full Ascension
-> - **F**/ {c/w}1 -> D JJ F1 B
+> - **FL**/ {c/w}1 -> D JJ F1 B
 
 With flow stone equipped, dash jump, double jump and then flick an incoming structure of cube or above in durability, then bump yourself in any direction before landing the structure on your opponent as you land.
 
@@ -29,9 +29,9 @@ Weavers are a special category of FGFA plus another move alongside it.
 > I'll add a way to sort through specifically Weaver combos later :p
 
 > [!example] Flick God Partial Ascension
-> - **F**/ {c/w}1 -> D JJ F1
+> - **FL**/ {c/w}1 -> D JJ F1
 > \- or -
-> - **F**/ {p/b/d}1 -> D JJ F1 B
+> - **FL**/ {p/b/d}1 -> D JJ F1 B
 > 
 > If a single component of FGFA is missing, it is a Partial Ascension. 
 > The structure being something below a cube in durability counts as a missing component.
@@ -42,7 +42,7 @@ Weavers are a special category of FGFA plus another move alongside it.
 > Substitutes the Flowstone double jump with a hold flight bump.
 
 > [!example] Apotheosis
-> - **F**/ {c/w}1 {c/w}2 -> D JJ F1 B F2 B
+> - **FL**/ {c/w}1 {c/w}2 -> D JJ F1 B F2 B
 > 
 > This variation is not well documented. I apologize if the notation is incorrect.
 > Once further documented, the move will likely get its own page.

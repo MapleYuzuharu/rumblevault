@@ -5,8 +5,11 @@
 # Maple's RUMBLE Vault Notation
 Wanting a robust, extremely clear notation system for my vault, I've modified the existing notation system, building on top of it.
 This notation will be updated as the vault expands and finds new edge cases.
+**Disclaimer: While this notation is robust and formal, it should not be expected to be used outside of this vault. It was made for formal documentation, not casual speech. Many of the decisions were made out of intuition from Maple, not a collaborative effort with other rumblers.**
 
-**Table of Contents**
+
+
+## Table of Contents
 - [[NotationGuide#Basic Notation\|Basic Notation]]
 - [[NotationGuide#Notation Order\|Notation Order]]
 - [[NotationGuide#Pre-Game Notation (Shiftstones)\|Pre-Game Notation (Shiftstones)]]
@@ -17,7 +20,6 @@ This notation will be updated as the vault expands and finds new edge cases.
 - [[NotationGuide#Move Information\|Move Information Format]]
 
 
-Disclaimer: While this notation is robust and formal, it should not be expected to be used outside of this vault. It was made for formal documentation, not casual speech.
 ***
 ### Basic Notation
 
@@ -133,7 +135,7 @@ Setup notation should include any structures and pre-modified structures to be e
 > **CH**/ "c" -> \_SU
 > Using Charge Stone. With a held cube, wait for charge stone proc then straight then uppercut.
 >
-> **F**/ {c/w}1 -> D JJ F1 B
+> **FL**/ {c/w}1 -> D JJ F1 B
 > Using Flowstone. With an incoming cube/wall, dash then double jump then flick the incoming cube/wall then bump.
 
 
