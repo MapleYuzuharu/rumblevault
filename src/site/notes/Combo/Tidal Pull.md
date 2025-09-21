@@ -23,6 +23,7 @@ Most structures can be snagged easily if done at the peak of the ball's arc.
   Your browser does not support the video tag.  
 </video>
  - Tidal Pull on freshly straighted cube in a real match. Performed by DizzyDreaming
+
 ### Move Information
 **Inventor** : DizzyDreaming
 **School** : ???
