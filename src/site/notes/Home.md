@@ -4,6 +4,10 @@
 
 # Maple's RUMBLE Vault
 
+
+
+
+
 > [!note]  **[[NotationGuide\|NotationGuide]]**
 
 > [!info] Combos
@@ -11,10 +15,11 @@
 > - [[Combo/Flick God Full Ascension\|Flick God Full Ascension]]
 > - [[Combo/Tidal Pull\|Tidal Pull]]
 > - [[Combo/Puppet Master\|Puppet Master]]
+> - [[Combo/Cliff Cannon\|Cliff Cannon]]
 > 
 { .block-language-dataview}
 
-
+---
 
 
 

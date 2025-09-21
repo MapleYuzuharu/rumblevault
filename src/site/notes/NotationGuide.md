@@ -34,6 +34,8 @@ S - Straight
 P - Parry
 K - Kick
 H - Hold
+HH - Hold with both hands
+X - Unhold
 U - Uppercut
 F - Flick
 G - Ground
@@ -146,7 +148,7 @@ When no setup phase is present, still put a ' -> ' to show that no setup is requ
 
 ### ! Notation
 ' ! ' is used for notes that cannot be annotated with normal notation.
-Adding a number at the end will differentiate it from other notes.
+If there is multiple notes, read them left to right.
 > [!note] Example
 > **/**/  -> s | c ... DJ F !
 > 
