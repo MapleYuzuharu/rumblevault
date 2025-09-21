@@ -7,7 +7,7 @@
 > [!example] Cliff Cannon
 > -  **/**/ o -> HH !
 >
-> where ! is "fling the structure forward"
+> where ! is "fling the structure forward with the Cliff Cannon technique"
 ***
 
 If your motivation to destroy your opponent is stronger than the boulders motivation to stay in place? It. Will. Move.
@@ -23,7 +23,7 @@ If your motivation to destroy your opponent is stronger than the boulders motiva
 ## Move Information
 **Inventor** : Fjm12
 **School** : ???
-**Style** : Technique
+**Style** : [[NotationGuide#**Style** Technique\|Technique]]
 
 ### Tutorial
 

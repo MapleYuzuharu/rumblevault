@@ -19,7 +19,7 @@ With flow stone equipped, dash jump, double jump and then flick an incoming stru
 ## Move Information
 **Inventor** : shoeless
 **School** : Shoeless Dojo
-**Style** : Super-Aerial
+**Style** : [[NotationGuide#**Style** Super-Aerial\|Super-Aerial]]
 *Must be hit in a valid match against a black belt to qualify for the title of "Ascended" inside the Shoeless Dojo.*
 
 ## Popular Variations

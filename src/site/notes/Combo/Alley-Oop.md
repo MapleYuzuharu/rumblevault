@@ -25,7 +25,7 @@ Can be done on a free, horizontal wall or any other structure (excluding boulder
 ## Move Information
 **Inventor** : shoeless
 **School** : Shoeless Dojo
-**Style** : Aerial
+**Style** : [[NotationGuide#**Style** Aerial\|Aerial]]
 
 ## Popular Variations
 

@@ -20,4 +20,4 @@ Holding a grounded structure, you can control it from the air, weaving it throug
 ## Move Information
 **Inventor** : shoeless
 **School** : Shoeless Dojo
-**Style** : Technique
+**Style** : [[NotationGuide#**Style** Technique\|Technique]]
