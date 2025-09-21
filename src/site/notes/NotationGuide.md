@@ -14,6 +14,7 @@ This notation will be updated as the vault expands and finds new edge cases.
 - [[NotationGuide#! Notation\|! Notation]]
 - [[NotationGuide#Alternates Notation\|Alternates Notation]]
 - [[NotationGuide#Vocal Notation\|Vocal Notation]]
+- [[NotationGuide#Move Information\|Move Information Format]]
 
 
 Disclaimer: While this notation is robust and formal, it should not be expected to be used outside of this vault. It was made for formal documentation, not casual speech.
@@ -201,11 +202,11 @@ Moves likes Flick Flail, Holding a wall into someone, etc. Anything on the groun
 
 **Style** : Aerial
 A move where the user takes to the air. Usually flick or hold moves.
-*Example* : [[https://rumblevault.vercel.app/combo/alley-oop/\|Alley-oop]]
+*Example* : [[Combo/Alley-Oop\|Alley-Oop]]
 
 **Style** : Super-Aerial
 An extension of Aerial, usually for moves that require flowstone or flight. An Aerial move becomes a Super-Aerial when it reaches more than 3 stacked walls worth of space above the ground.
-*Example* : [[https://rumblevault.vercel.app/combo/flick-god-full-ascension/\|Flick God Full Ascension]]
+*Example* : [[Combo/Flick God Full Ascension\|Flick God Full Ascension]]
 
 **Style** : Anti-Air
 The arch-nemesis of Aerial style moves. These are any moves specifically designed to give Aerial attacks a hard time. Does NOT always mean a projectile!
@@ -213,7 +214,7 @@ The arch-nemesis of Aerial style moves. These are any moves specifically designe
 
 **Style** : Waterbending
 For moves that exploit collision logic to deflect or redirect structures.
-*Example* : [[https://rumblevault.vercel.app/combo/tidal-pull/\|Tidal Pull]]
+*Example* : [[Combo/Tidal Pull\|Tidal Pull]]
 
 **Style** : Bloodbending
 An extension of Waterbending, this is a term for specifically redirecting players, not structures.
@@ -222,7 +223,7 @@ An extension of Waterbending, this is a term for specifically redirecting player
 **Style** : Technique
 For non-combo moves that use technique rather than a specific combination of inputs. Think of this as a "Gimmick" style that catches any miscellaneous moves.
 Most Techniques have short or non-existent notation since they are heavily grounded in physical movements or strategies.
-*Example* : [[https://rumblevault.vercel.app/combo/puppet-master/\|Puppet Master]]
+*Example* : [[Combo/Puppet Master\|Puppet Master]]
 
 
 Sorry if some examples are not clickable, I am still documenting moves.
