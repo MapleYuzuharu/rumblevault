@@ -22,7 +22,7 @@ Most structures can be snagged easily without breaking the ball if the collision
   <source src="https://media.milanote.com/p/files/1TEIWX13EDZfeP/9mQ/Tidal%20Pull%20Showcase.mp4" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>
- - Tidal Pull on freshly straighted cube in a real match. Performed by DizzyDreaming
+ - Tidal Pull on a freshly straighted cube in a real match. Clip origin unknown.
 
 ### Move Information
 **Inventor** : DizzyDreaming
