@@ -12,10 +12,10 @@
 
 > [!info] Combos
 >  - [[Combo/Alley-Oop\|Alley-Oop]]
-> - [[Combo/Flick God Full Ascension\|Flick God Full Ascension]]
-> - [[Combo/Tidal Pull\|Tidal Pull]]
-> - [[Combo/Puppet Master\|Puppet Master]]
 > - [[Combo/Cliff Cannon\|Cliff Cannon]]
+> - [[Combo/Flick God Full Ascension\|Flick God Full Ascension]]
+> - [[Combo/Puppet Master\|Puppet Master]]
+> - [[Combo/Tidal Pull\|Tidal Pull]]
 > 
 { .block-language-dataview}
 

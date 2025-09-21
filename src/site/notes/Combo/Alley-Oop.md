@@ -10,7 +10,7 @@
 > where ! is "move the structure behind and above you"
 ***
 
-Can be done on a free, horizontal wall or on your own cube launch. This move uses a launched structure and flails down and up above the head and dunks it on the opponent. 
+Can be done on a free, horizontal wall or any other structure (excluding boulders). This move uses a launched structure and flails down and up above the head before dunking it on an opponent. 
 
 **You can add a combo onto the launching cube for a 2-way attack.**
 

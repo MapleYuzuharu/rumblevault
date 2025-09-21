@@ -4,7 +4,7 @@
 
 # Maple's RUMBLE Vault Notation
 Wanting a robust, extremely clear notation system for my vault, I've modified the existing notation system, building on top of it.
-Most rumblers will be able to understand my notation if they know the original notation, but incase you ever get confused, these are the exact specifics of Maple Notation.
+This notation will be updated as the vault expands and finds new edge cases.
 
 **Table of Contents**
 - [[NotationGuide#Basic Notation\|Basic Notation]]
