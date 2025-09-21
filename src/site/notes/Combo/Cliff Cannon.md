@@ -16,14 +16,14 @@ If your motivation to destroy your opponent is stronger than the boulders motiva
   <source src="https://files.catbox.moe/293nzb.mov" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>
- - Cliff Cannon in a real match. Performed by DragonFire15
+ - Clip of me finding out about this move the hard way. Performed by DragonFire15
  
 ***
 
 ## Move Information
 **Inventor** : Fjm12
 **School** : ???
-**Style** : Projectile
+**Style** : Technique
 
 ### Tutorial
 

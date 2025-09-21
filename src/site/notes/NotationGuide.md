@@ -173,3 +173,56 @@ It is a separate, optional transition step, so there must be a second ' -> ' in 
 > [!note] Example
 > **/**/ -> pUKS -> "Magic Missile!"
 > Pillar then uppercut then kick then straight. Say "`Magic Missile!`"
+
+
+### Move Information
+At the foot of any move page, you will see this:
+**Inventor** : username
+**School** : school
+**Style** : style
+
+The **Inventor** refers to the first recorded usage of this move.
+
+The **School**, if known, refers to the school that the move falls under. You may find that moves sharing the same **School** blend well together and match in playstyle.
+
+The **Style** refers to the style of move it falls under.
+
+**Style** : Projectile
+Any move that flings something at the target. Think 'USK's and 'SU's.
+*Example* : SU
+
+**Style** : Railgun
+An extension of Projectile, this any projectile that uses hit-stop to fling the projectile extremely fast.
+*Example* : Devil's Rod
+
+**Style** : Ground Attack
+Moves likes Flick Flail, Holding a wall into someone, etc. Anything on the ground, that does not include a projectile, usually in a straight's worth of range.
+*Example* : Flick Flail
+
+**Style** : Aerial
+A move where the user takes to the air. Usually flick or hold moves.
+*Example* : [[https://rumblevault.vercel.app/combo/alley-oop/\|Alley-oop]]
+
+**Style** : Super-Aerial
+An extension of Aerial, usually for moves that require flowstone or flight. An Aerial move becomes a Super-Aerial when it reaches more than 3 stacked walls worth of space above the ground.
+*Example* : [[https://rumblevault.vercel.app/combo/flick-god-full-ascension/\|Flick God Full Ascension]]
+
+**Style** : Anti-Air
+The arch-nemesis of Aerial style moves. These are any moves specifically designed to give Aerial attacks a hard time. Does NOT always mean a projectile!
+*Example* : SUK
+
+**Style** : Waterbending
+For moves that exploit collision logic to deflect or redirect structures.
+*Example* : [[https://rumblevault.vercel.app/combo/tidal-pull/\|Tidal Pull]]
+
+**Style** : Bloodbending
+An extension of Waterbending, this is a term for specifically redirecting players, not structures.
+*Example* : Broomstick
+
+**Style** : Technique
+For non-combo moves that use technique rather than a specific combination of inputs. Think of this as a "Gimmick" style that catches any miscellaneous moves.
+Most Techniques have short or non-existent notation since they are heavily grounded in physical movements or strategies.
+*Example* : [[https://rumblevault.vercel.app/combo/puppet-master/\|Puppet Master]]
+
+
+Sorry if some examples are not clickable, I am still documenting moves.
