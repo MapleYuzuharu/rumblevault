@@ -16,6 +16,7 @@
 > - [[Combo/Flick God Full Ascension\|Flick God Full Ascension]]
 > - [[Combo/Puppet Master\|Puppet Master]]
 > - [[Combo/Tidal Pull\|Tidal Pull]]
+> - [[Combo/Flick Reversal\|Flick Reversal]]
 > 
 { .block-language-dataview}
 

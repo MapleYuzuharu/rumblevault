@@ -5,9 +5,10 @@
 ![cliff_cannon.png](/img/user/!source/cliff_cannon.png)
 
 > [!example] Cliff Cannon
-> -  **/**/ o -> HH !
->
-> where ! is "fling the structure forward with the Cliff Cannon technique"
+> -  **/**/ o -> HH ! !
+> 
+> where the first ! is "hold the boulder above you with your elbows slightly bent"
+> where the second ! is "crouch and whip your wrist and arms forward"
 ***
 
 If your motivation to destroy your opponent is stronger than the boulders motivation to stay in place? It. Will. Move.
