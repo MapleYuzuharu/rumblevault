@@ -16,7 +16,7 @@ When you find an incoming ungrounded attack, you can dash towards your opponent 
 **Recommended: Learning Flick Flail before this move, as it transitions nicely into it if you miss the initial rebound Return-to-Sender.**
 
 <video controls loop autoplay muted>  
-  <source src="https://files.catbox.moe/roer36.mp4" type="video/mp4">  
+  <source src="https://files.catbox.moe/9iqpyj.mp4" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>
  - Flick Reversal opening in a real match. Performed by shoeless
