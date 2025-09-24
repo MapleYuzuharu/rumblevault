@@ -16,7 +16,7 @@ With an accompanying ball, an incoming projectile can be stopped by perfect guar
 **Should the projectile still hit you, your ball being guarded will result in a shorter stun-lock.**
 
 <video controls loop autoplay muted>  
-  <source src="https://files.catbox.moe/pyzp33.mp4" type="video/mp4">  
+  <source src="https://files.catbox.moe/y0x1of.mp4" type="video/mp4">  
   Your browser does not support the video tag.  
 </video>
  - Vanguard Chamber on an incoming wall in a real match. Performed by Lemmi05
