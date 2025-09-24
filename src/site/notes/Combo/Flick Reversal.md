@@ -26,7 +26,7 @@ When you find an incoming ungrounded attack, you can dash towards your opponent 
 ## Move Information
 **Inventor** : shoeless
 **School** : Shoeless Dojo
-**Style** : [[NotationGuide#**Style** Technique\|Technique]]
+**Style** : [[NotationGuide#**Style** RTS\|RTS]]
 
 ## Popular Variations
 

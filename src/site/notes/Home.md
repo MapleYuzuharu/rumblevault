@@ -17,6 +17,7 @@
 > - [[Combo/Puppet Master\|Puppet Master]]
 > - [[Combo/Tidal Pull\|Tidal Pull]]
 > - [[Combo/Flick Reversal\|Flick Reversal]]
+> - [[Combo/Vanguard Chamber\|Vanguard Chamber]]
 > 
 { .block-language-dataview}
 

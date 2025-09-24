@@ -54,6 +54,7 @@ where \* is a structure type (e.g \[w\] is a grounded wall).
 ^\*^ - Volatile
 "\*" - Held
 \%\*\% - Flicked
+$b - Shorthand for Flick-Held ball
 can be combined together:
 \[{\*}\] - Moving and grounded.
 
@@ -197,6 +198,10 @@ Sorry if some examples are not clickable, I am still documenting moves and their
 #### **Style** : Projectile
 Any move that flings something at the target. Think 'USK's and 'SU's.
 *Example* : SU
+
+#### **Style** : RTS
+An extension of projectiles. This is a specific style of move that uses the opponent's projectile to attack the opponent.
+*Example* : [[Combo/Vanguard Chamber\|Vanguard Chamber]]
 
 #### **Style** : Railgun
 An extension of Projectile, this any projectile that uses hit-stop to fling the projectile extremely fast.
