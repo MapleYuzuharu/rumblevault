@@ -3,7 +3,6 @@
 ---
 
 ![cliff_cannon.png](/img/user/!source/cliff_cannon.png)
-
 > [!example] Cliff Cannon
 > -  **/**/ o -> HH ! !
 > 

@@ -3,7 +3,7 @@
 ---
 
 
-![alley-oop.png](/img/user/!source/alley-oop.png)
+<img src="https://files.catbox.moe/a0e2ov.png">
 > [!example] Alley-Oop
 > -  **/**/ s -> c ... D J F !
 >

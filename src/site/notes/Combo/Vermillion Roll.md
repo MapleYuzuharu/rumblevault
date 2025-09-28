@@ -4,7 +4,6 @@
 
 
 <img src= "https://files.catbox.moe/cknj9s.png">
-
 > [!example] Vermillion Roll
 > -  **VO**/ w1 -> cEDuJF1!uB
 >
