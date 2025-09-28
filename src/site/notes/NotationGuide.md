@@ -66,7 +66,7 @@ B - Bump yourself with a structure
 M - Mount a structure in the air (denotes flight)
 W - Walk
 T - Pivot/Turn
-U - Quick Turn (180-turn)
+u - Quick Turn (180-turn)
 ^ - Lock-on Turn
 
 **Special**
