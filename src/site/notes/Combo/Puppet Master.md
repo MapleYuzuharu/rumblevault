@@ -3,6 +3,7 @@
 ---
 
 ![puppet_master.png](/img/user/!source/puppet_master.png)
+
 > [!example] Puppet Master
 > - **/**/ "\[s\]" ! -> !
 > 
