@@ -3,7 +3,7 @@
 ---
 
 
-<img src= "https://files.catbox.moe/cknj9s.png">
+<img src= "https://files.catbox.moe/p7fz45.png">
 
 > [!example] Vermillion Roll
 > -  **VO**/ w1 -> cEDuJF1!uB
