@@ -5,13 +5,16 @@
 
 img wip
 
-> [!example] Vanguard Chamber
-> -  **CH**-**GU**/ {s}1 $b2 -> g2 S2
+> [!example] Rumble Notation
+> -  CG/ bFH g1 {c+} S2
 >
-> where $b is a shorthand for flicked and single-held ball
+
+> [!example] Maple's Vault Notation
+> -  CH-GU**/** FH_b1 {c/w/o}2 **->** g1 S2
+>
 ***
 
-With an accompanying ball, an incoming projectile can be stopped by perfect guarding your own ball and then super-straighting the ball to fling the projectile back at the opponent.
+With an accompanying ball, an incoming projectile (wall or cube) can be stopped by perfect guarding your own ball and then super-straighting the incoming structure to fling it back at the opponent.
 
 **Should the projectile still hit you, your ball being guarded will result in a shorter stun-lock.**
 

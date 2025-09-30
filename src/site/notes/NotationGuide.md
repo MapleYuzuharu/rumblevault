@@ -52,9 +52,7 @@ where \* is a structure type (e.g \[w\] is a grounded wall).
 {\*} - Moving/Incoming
 <\*> - Explosive
 ^\*^ - Volatile
-"\*" - Held
-\%\*\% - Flicked
-$b - Shorthand for Flick-Held ball
+~\* - Rotated (walls or pillars)
 can be combined together:
 \[{\*}\] - Moving and grounded.
 

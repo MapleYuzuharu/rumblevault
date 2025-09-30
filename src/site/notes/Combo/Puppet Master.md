@@ -4,11 +4,18 @@
 
 ![puppet_master.png](/img/user/!source/puppet_master.png)
 
-> [!example] Puppet Master
-> - **/**/ "\[s\]" ! -> !
+> [!example] Rumble Notation
+> - ! \[s\] H !
 > 
 > where the first ! is "being in the air"
 > where the second ! is "use hold hand to control the structure while in the air"
+
+> [!example] Maple's Vault Notation
+> - **/**/ H\[s\] ! **->** !
+> 
+> where the first ! is "being in the air"
+> where the second ! is "use hold hand to control the structure while in the air"
+***
 
 Holding a grounded structure, you can control it from the air, weaving it through obstacles while your opponent is busy looking at you.
 

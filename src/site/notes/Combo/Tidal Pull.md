@@ -4,12 +4,20 @@
 
 img coming soon lol
 
-> [!example] Tidal Pull
-> - \***CH**/ "%b1%" -> *(*s*)*2 > S1 !2
+> [!example] Rumble Notation
+> - C/ b (s) S1 !2
 > \- or -
-> - \***CH**/ "%b1%" -> *{*s*}*2 > S1 !2
+> - C/ b *{*s*}* S1 !2
 > 
 > where ! is "waterbend the structure"
+
+> [!example] Maple's Vault Notation
+> - \***CH**/ :'b1': (s)2 **->** S1 !2
+> \- or -
+> - \***CH**/ :'b1:' *{*s*}*2 **->** S1 !2
+> 
+> where ! is "waterbend the structure"
+***
 
 With a flicked ball, use modifiers to send it around an incoming or free structure to pull it towards you.
 

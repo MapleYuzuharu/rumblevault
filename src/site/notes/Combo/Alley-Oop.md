@@ -5,10 +5,15 @@
 
 <img src="https://files.catbox.moe/a0e2ov.png">
 
-> [!example] Alley-Oop
-> -  **/**/ s -> c ... D J F !
+> [!example] Rumble Notation
+> - |c/w| c ... D J F !
 >
 > where ! is "move the structure behind and above you"
+
+> [!example] Maple's Vault Notation
+> -  /**/** |c/~w|1 **->** c ... D J F1 !
+> 
+> where the ! is "move the structure behind and above you"
 ***
 
 Can be done on a free, horizontal wall or any other structure (excluding boulders). This move uses a launched structure and flails down and up above the head before dunking it on an opponent. 
@@ -32,7 +37,7 @@ Can be done on a free, horizontal wall or any other structure (excluding boulder
 
 > [!example] Self-served Alley-oop
 > - **/**/ -> c *c* ... D J F !
-\+ Does not need a wall laying down already horizontally in front of you.
+\+ Does not need a wall laying down in front of you.
 \- Not as much damage.
 
 > [!example] Launchless Kickercut
@@ -42,6 +47,6 @@ Can be done on a free, horizontal wall or any other structure (excluding boulder
 
 > [!example] Launchless Upperkick
 > - **/**/ s -> *UK* ... D J F !
-\+ Easy for beginners.
+\+ Sometimes easier for beginners.
 \- No second cube attacking with you.
 \- Not as fast as the Kickercut variation.

@@ -5,8 +5,14 @@
 
 img wip
 
-> [!example] Flick Reversal
-> -  **/**/ ({s}) -> ^ D T F !
+> [!example] Rumble Notation
+> - ({s}) ^ D T F !
+>
+> where ! is "gesture the flicked structure right back at the enemy"
+***
+
+> [!example] Maple's Vault Notation
+> -  **/**/ ({s}) **->** ^ D T F !
 >
 > where ! is "gesture the flicked structure right back at the enemy"
 ***
