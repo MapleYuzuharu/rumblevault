@@ -5,11 +5,6 @@
 
 img wip
 
-> [!example] Rumble Notation
-> - ({s}) ^ D T F !
->
-> where ! is "gesture the flicked structure right back at the enemy"
-***
 
 > [!example] Maple's Vault Notation
 > -  **/** / ({s}) **->** ^ D T F !
@@ -38,16 +33,8 @@ When you find an incoming ungrounded attack, you can dash towards your opponent 
 
 
 > [!example] Static Reversal
-> -  **/**/ ({s}) -> S F !
+> -  **/** / ({s}) **->** S F !
 > <video controls loop loading="lazy" muted>  <source src="https://files.catbox.moe/9g7fx1.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
 > - Clip by DizzyDreaming
 
-
-> [!example] Smokescreen Reversal
-> -  **/**/ ({s})1 \`s\`2 -> K2 S2 ^ D T F1 !1
-> 
-> where ! is "gesture the flicked structure right back at the enemy"
-> where \`s\` is "structure that is of less durability than then incoming structure"
-> <video controls loop loading="lazy" muted>  <source src="https://files.catbox.moe/jq41r7.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
-> - Clips by DizzyDreaming
 

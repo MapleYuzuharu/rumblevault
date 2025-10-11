@@ -34,7 +34,13 @@ If your motivation to destroy your opponent is stronger than the boulders motiva
 ## Popular Variations
 
 > [!example] Devil's Lob
-> - **/**/ o1\[pppp\] -> HH1 !1
+> - **/** / o1\[pppp\] **->** HH1 !1
 > 
 > where ! is "fling the structure forward and into the pillars"
 
+
+> [!example] Pivot Cannon
+> - **/** / o1 **->** HH1 ! uu
+> 
+> where ! is "hold the boulder above you"
+> <video controls loop autoplay muted>  <source src="https://files.catbox.moe/b1pvsv.mp4" type="video/mp4">  Your browser does not support the video tag.  </video>

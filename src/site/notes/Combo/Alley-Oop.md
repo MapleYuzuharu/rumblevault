@@ -32,17 +32,17 @@ Can be done on a free, horizontal wall or any other structure (excluding boulder
 ## Popular Variations
 
 > [!example] Self-served Alley-oop
-> - **/**/ -> c *c* ... D J F !
+> - **/** / **->** c *c* ... D J F !
 \+ Does not need a wall laying down in front of you.
 \- Not as much damage.
 
 > [!example] Launchless Kickercut
-> - **/**/ s -> *KU* D J F !
+> - **/** / s **->** *KU* D J F !
 \+ Faster setup.
 \- No second cube attacking with you.
 
 > [!example] Launchless Upperkick
-> - **/**/ s -> *UK* ... D J F !
+> - **/** / s **->** *UK* ... D J F !
 \+ Sometimes easier for beginners.
 \- No second cube attacking with you.
 \- Not as fast as the Kickercut variation.
