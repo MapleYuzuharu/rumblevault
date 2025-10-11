@@ -5,9 +5,9 @@
 img coming soon lol
 
 > [!example] Maple's Vault Notation
-> - \***CH**/ :'b1': (s)2 **->** S1 !2
+> - \***CH** / :'b1': (s)2 **->** S1 !2
 > \- or -
-> - \***CH**/ :'b1:' *{*s*}*2 **->** S1 !2
+> - \***CH** / :'b1:' *{*s*}*2 **->** S1 !2
 > 
 > where ! is "waterbend the structure"
 ***

@@ -6,7 +6,7 @@
 
 
 > [!example] Maple's Vault Notation
-> - FL**/** {c/w/o}1 **->** TD JJ F1 B
+> - FL **/** {c/w/o}1 **->** TD JJ F1 B
 
 With flow stone equipped, dash jump, double jump and then flick an incoming structure of cube or above in durability, then bump yourself in any direction before landing the structure on your opponent as you land.
 

@@ -12,7 +12,7 @@ img wip
 ***
 
 > [!example] Maple's Vault Notation
-> -  **/**/ ({s}) **->** ^ D T F !
+> -  **/** / ({s}) **->** ^ D T F !
 >
 > where ! is "gesture the flicked structure right back at the enemy"
 ***

@@ -5,7 +5,7 @@
 ![puppet_master.png](/img/user/!source/puppet_master.png)
 
 > [!example] Maple's Vault Notation
-> - **/**/ H\[s\] ! **->** !
+> - **/** / H\[s\] ! **->** !
 > 
 > where the first ! is "being in the air"
 > where the second ! is "use hold hand to control the structure while in the air"

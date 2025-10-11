@@ -7,7 +7,7 @@
 
 
 > [!example] Maple's Vault Notation
-> -  /**/** |c/~w|1 **->** c ... D J F1 !
+> -  / **/** |c/~w|1 **->** c ... D J F1 !
 > 
 > where the ! is "move the structure behind and above you"
 ***

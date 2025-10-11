@@ -6,7 +6,7 @@
 
 
 > [!example] Maple's Vault Notation
-> -  /**/** o **->** HH ! !
+> -  / **/** o **->** HH ! !
 > 
 > where the first ! is "hold the boulder above you with your elbows slightly bent"
 > where the second ! is "crouch and whip your wrist and arms forward"

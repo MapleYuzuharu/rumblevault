@@ -6,7 +6,7 @@
 img wip
 
 > [!example] Maple's Vault Notation
-> -  CH-GU**/** FH_b1 {c/w/o}2 **->** g1 S2
+> -  CH-GU **/** FH_b1 {c/w/o}2 **->** g1 S2
 >
 ***
 
