@@ -1,124 +1,164 @@
-/* Inspired by this pen by Pieter Biesemans https://codepen.io/pieter-biesemans/pen/BQBWXX and My Mother Before Me project http://mymotherbeforeme.com/ */
+$blur-radius: 30px;
+$card-transition-duration: 0.2s;
+$card-hover-box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+$carousel-height: 200px;
 
-/* hide scrollbar */
-::-webkit-scrollbar {
-  width: 1px;
-  height: 1px;
-}
 
-::-webkit-scrollbar-button {
-  width: 1px;
-  height: 1px;
-}
-.external {
-  overflow: hidden;
-  height: 100vh;
+.bg-primary {
+  background: $primary !important;
 }
 
-.horizontal-scroll-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100vh;
-  transform: rotate(-90deg) translate3d(0,-100vh,0);
-  transform-origin: right top;
-  overflow-y: auto;
-  overflow-x: hidden;
-  padding: 0;
-  height: 100vw;
-  perspective: 1px;
-	transform-style: preserve-3d;
-  padding-bottom: 10rem;
-}
-.img-wrapper {
-  transform: rotate(90deg);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 40vh;
-  transform-origin: 50% 50%;
-  transform: rotate(90deg) translateZ(.1px) scale(0.9) translateX(0px) translateY(-3vh);
-  transition: 1s;
+.bubble {
+  -webkit-backdrop-filter: blur($blur-radius);
+  backdrop-filter: blur($blur-radius);
+  border-color: rgba(255, 255, 255, 0.12) !important;
+  background: rgba(255, 255, 255, 0.05) !important;
+  color: #ffffff;
 }
 
-.img-wrapper:hover {
- min-height: 65vh;
-}
-
-.slower {
-  transform: rotate(90deg) translateZ(-.2px) scale(1.1) translateX(0%) translateY(-10vh);
-}
-.slower1 {
-  transform: rotate(90deg) translateZ(-.25px) scale(1.05) translateX(0%) translateY(8vh);
-}
-.slower2 {
-  transform: rotate(90deg) translateZ(-.3px) scale(1.3) translateX(0%) translateY(2vh);
-}
-.slower-down {
-  transform: rotate(90deg) translateZ(-.2px) scale(1.1) translateX(0%) translateY(16vh) ;
-}
-.faster {
-  transform: rotate(90deg) translateZ(.15px) scale(0.8) translateX(0%) translateY(14vh) ;
-}
-.faster1 {
-  transform: rotate(90deg) translateZ(.05px) scale(0.8) translateX(0%) translateY(10vh) ;
-}
-.fastest {
-  transform: rotate(90deg) translateZ(.22px) scale(0.7) translateX(-10vh) translateY(-15vh) ;
-}
-.vertical {
-   transform: rotate(90deg) translateZ(-.15px) scale(1.15) translateX(0%) translateY(0%) ;
-}
-.last {
-  transform: rotate(90deg) translateZ(-.2px) scale(1.1) translateX(25vh) translateY(-8vh) ;
-}
-.scroll-info, header {
+.date {
   position: absolute;
-  left: 1rem;
+  top: 15px;
+  left: 15px;
+  padding: 10px 10px;
 }
 
-
-header {
-  bottom: 1rem;
-}
-.scroll-info {
-  top: 1rem;
-}
-a {
-  color: inherit;
-  font-weight: 500;
-  
-}
-h1 {
-  font-weight: 300;
-  font-size: 1rem;
-}
-
-.img-wrapper a {
+.cover-image {
+  position: relative;
+  max-height: $carousel-height;
   overflow: hidden;
-  display: block;
-  padding: 1vh ;
-  background: #efecdb;
-  box-shadow: 0 10px 50px #5f2f1182;
 }
-img {
-  max-width: 45vh;
-  max-height: 50vh;
-  transition: .5s;
-  vertical-align: top;
-  filter: saturate(40%) sepia(30%) hue-rotate(5deg);
+
+.vault-link {
+  color: $primary;
+  text-decoration: none;
 }
-a:hover img {
-  filter: none;
+
+.input-icon{
+  position: relative;
+  margin-bottom: 1rem;
 }
-p {
-  margin: 0;
+
+.input-icon input{
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  padding-left:30px;
+  width: 100%;
 }
-.scroll-info {
-  display: flex;
-  align-items: center;
+
+.input-icon i{
+  position: absolute;
+  left:20px;
+  top:25px;
+  opacity:.5;
 }
-.icon svg {
-    width: 50px;
-    fill: currentcolor;
+
+.categories a.badge {
+  color: $primary;
+  border-color: $primary;
+  font-size: 0.8rem;
+  margin-right: 0.25rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 1rem;
+  border: 1px solid;
+  margin-right: 0.25rem;
+  
+  &.active {
+    background: $primary;
+    color: #ffffff;
+  }
+}
+
+.card {
+  transition: all $card-transition-duration;
+  height: 100%;
+  margin-bottom: 1rem;
+  
+  &:hover {
+    background: #362D27 !important;
+    box-shadow: $card-hover-box-shadow !important;
+
+    h2 a {
+      transition: all $card-transition-duration;
+      color: $primary !important;
+    }
+
+    img {
+      border-bottom-right-radius: 0 !important;
+      border-bottom-left-radius: 0 !important;
+    }
+
+    .has-multiple {
+      button {
+        display: block;
+      }
+    }
+
+    .has-multiple-icon {
+      opacity: 0.2;
+    }
+  }
+
+  .has-multiple-icon {
+    position: absolute;
+    top: $carousel-height - 40px;
+    right: 15px;
+    color: #ffffff;
+  }
+}
+
+/* Monochrome filter for images */
+.card img {
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.card:hover img {
+  filter: grayscale(0%);
+}
+
+
+
+// Carousel-specific styles
+.has-multiple {
+  position: relative;
+  min-height: $carousel-height;
+  max-height: $carousel-height;
+  overflow: hidden;
+  width: 100%;
+
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transition: transform 0.3s ease;
+  }
+
+  button {
+    position: absolute;
+    top: $button-position-top;
+    transform: translateY(-50%);
+    z-index: 1;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: $button-color;
+    display:none;
+    
+    &:hover {
+      color: $button-hover-color;
+    }
+
+    &.prev {
+      left: $button-position-left;
+    }
+
+    &.next {
+      right: $button-position-right;
+    }
+  }
 }
