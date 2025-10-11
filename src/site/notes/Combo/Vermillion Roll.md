@@ -4,10 +4,7 @@
 
 
 <img src= "https://files.catbox.moe/p7fz45.png">
-> [!example] Rumble Notation
-> -  V/ w c E2 D u J F1 ! u B
->
-> where ! is "collide the wall with the explosive cube for push, then congeal state to mount"
+
 
 > [!example] Maple's Vault Notation
 > -  VO**/** w1 c2 **->** E2 DuJ F1! uB

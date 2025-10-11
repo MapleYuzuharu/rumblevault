@@ -4,13 +4,6 @@
 
 img coming soon lol
 
-> [!example] Rumble Notation
-> - C/ b (s) S1 !2
-> \- or -
-> - C/ b *{*s*}* S1 !2
-> 
-> where ! is "waterbend the structure"
-
 > [!example] Maple's Vault Notation
 > - \***CH**/ :'b1': (s)2 **->** S1 !2
 > \- or -

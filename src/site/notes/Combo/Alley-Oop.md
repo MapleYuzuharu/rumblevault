@@ -5,10 +5,6 @@
 
 <img src="https://files.catbox.moe/a0e2ov.png">
 
-> [!example] Rumble Notation
-> - |c/w| c ... D J F !
->
-> where ! is "move the structure behind and above you"
 
 > [!example] Maple's Vault Notation
 > -  /**/** |c/~w|1 **->** c ... D J F1 !

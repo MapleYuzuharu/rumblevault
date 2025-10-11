@@ -122,7 +122,7 @@ You can also include other specific pre-game notations such as the map.
 or a specific person (lmao).
 > [!note] Example
 > "lunamothh" **VO**/ -> dEdbS
-> Against lunamothh using Volatile. Disc then explode then d then b then straight.
+> Against lunamothh using Volatile. Disc then explode then disc then ball then straight.
 
 ### Setup Notation
 

@@ -4,8 +4,6 @@
 
 \[image is wip\]
 
-> [!example] Rumble Notation
-> - F/ {c+} T D J J F1 B
 
 > [!example] Maple's Vault Notation
 > - FL**/** {c/w/o}1 **->** TD JJ F1 B

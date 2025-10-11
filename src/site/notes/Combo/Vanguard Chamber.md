@@ -5,10 +5,6 @@
 
 img wip
 
-> [!example] Rumble Notation
-> -  CG/ bFH g1 {c+} S2
->
-
 > [!example] Maple's Vault Notation
 > -  CH-GU**/** FH_b1 {c/w/o}2 **->** g1 S2
 >
