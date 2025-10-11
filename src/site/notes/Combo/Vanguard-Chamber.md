@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combo/vanguard-chamber/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/combo/vanguard-chamber/"}
 ---
 
 

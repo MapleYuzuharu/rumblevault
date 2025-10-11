@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combo/tidal-pull/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/combo/tidal-pull/"}
 ---
 
 img coming soon lol

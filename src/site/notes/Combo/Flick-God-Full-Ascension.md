@@ -1,5 +1,5 @@
 ---
-{"Image":"!source/FGFA.webp","aliases":null,"dg-publish":true,"permalink":"/combo/flick-god-full-ascension/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/combo/flick-god-full-ascension/"}
 ---
 
 \[image is wip\]

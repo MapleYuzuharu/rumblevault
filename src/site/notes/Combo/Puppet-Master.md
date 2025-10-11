@@ -1,5 +1,5 @@
 ---
-{"Image":"!source/puppet_master.png","dg-publish":true,"gallery":"true","permalink":"/combo/puppet-master/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/combo/puppet-master/"}
 ---
 
 ![puppet_master.png](/img/user/!source/puppet_master.png)
