@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combo/alley-oop/","tags":["Aerial","shoeless"]}
+{"Image":"https://files.catbox.moe/a0e2ov.png","dg-publish":true,"gallery":"true","tags":["Aerial","shoeless"],"permalink":"/combo/alley-oop/","dgPassFrontmatter":true}
 ---
 
 

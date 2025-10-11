@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combo/cliff-cannon/"}
+{"dg-publish":true,"gallery":"true","Image":"!source/cliff_cannon.png","permalink":"/combo/cliff-cannon/","dgPassFrontmatter":true}
 ---
 
 ![cliff_cannon.png](/img/user/!source/cliff_cannon.png)

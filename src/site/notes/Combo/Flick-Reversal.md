@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combo/flick-reversal/"}
+{"dg-publish":true,"permalink":"/combo/flick-reversal/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notation-guide/"}
+{"dg-publish":true,"permalink":"/notation-guide/","dgPassFrontmatter":true}
 ---
 
 # Maple's RUMBLE Vault Notation

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combo/vermillion-roll/"}
+{"dg-publish":true,"gallery":"true","Image":"https://files.catbox.moe/p7fz45.png","permalink":"/combo/vermillion-roll/","dgPassFrontmatter":true}
 ---
 
 
