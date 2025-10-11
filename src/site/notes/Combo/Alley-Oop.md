@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combo/alley-oop/"}
+{"dg-publish":true,"permalink":"/combo/alley-oop/","tags":["Aerial","shoeless"]}
 ---
 
 

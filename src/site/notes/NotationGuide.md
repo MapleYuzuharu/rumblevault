@@ -199,7 +199,7 @@ Any move that flings something at the target. Think 'USK's and 'SU's.
 
 #### **Style** : RTS
 An extension of projectiles. This is a specific style of move that uses the opponent's projectile to attack the opponent.
-*Example* : [[Combo/Vanguard Chamber\|Vanguard Chamber]]
+*Example* : [[Combo/Vanguard-Chamber\|Vanguard-Chamber]]
 
 #### **Style** : Railgun
 An extension of Projectile, this any projectile that uses hit-stop to fling the projectile extremely fast.
@@ -215,7 +215,7 @@ A move where the user takes to the air. Usually flick or hold moves.
 
 #### **Style** : Super-Aerial
 An extension of Aerial, usually for moves that require flowstone or flight. An Aerial move becomes a Super-Aerial when it reaches more than 3 stacked walls worth of space above the ground.
-*Example* : [[Combo/Flick God Full Ascension\|Flick God Full Ascension]]
+*Example* : [[Combo/Flick-God-Full-Ascension\|Flick-God-Full-Ascension]]
 
 #### **Style** : Anti-Air
 The arch-nemesis of Aerial style moves. These are any moves specifically designed to give Aerial attacks a hard time. Does NOT always mean a projectile!
@@ -223,7 +223,7 @@ The arch-nemesis of Aerial style moves. These are any moves specifically designe
 
 #### **Style** : Waterbending
 For moves that exploit collision logic to deflect or redirect structures. This is technically an extension of a Technique, with many moves using that technique.
-*Example* : [[Combo/Tidal Pull\|Tidal Pull]]
+*Example* : [[Combo/Tidal-Pull\|Tidal-Pull]]
 
 #### **Style** : Bloodbending
 An extension of Waterbending, this is a term for specifically redirecting players, not structures.
@@ -232,4 +232,4 @@ An extension of Waterbending, this is a term for specifically redirecting player
 #### **Style** : Technique
 For non-combo moves that use technique rather than a specific combination of inputs. Think of this as a "Gimmick" style that catches any miscellaneous moves.
 Most Techniques have short or non-existent notation since they are heavily grounded in physical movements or strategies.
-*Example* : [[Combo/Puppet Master\|Puppet Master]]
+*Example* : [[Combo/Puppet-Master\|Puppet-Master]]
