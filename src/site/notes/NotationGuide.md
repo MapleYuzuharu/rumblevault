@@ -71,7 +71,7 @@ u - Quick Turn (180-turn)
 g - Guard
 -> - Next Notation Step
 ! - Placeholder for undocumented notation.
-... - Wait
+. - Wait
 = - Infinitely Repeatable (only at the end of a notation)
 **\*** - Use of shiftstone
 *\** - Mirrored pose (opposite dominant hand basically)
@@ -83,7 +83,6 @@ Numbers after a ' ! ' refers to which note it is.
 
 **Reasons for major changes:**
 - Volatile vs Explosive structures for using debri from your opponent.
-- ... is more visible than a single . that may be missed.
 - Ability to indicate unholding structures.
 - Pre-rotated structures.
 AGAIN this is for THIS VAULT. This notation is not intended to be used outside the vault.

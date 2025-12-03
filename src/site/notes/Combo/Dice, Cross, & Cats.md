@@ -33,8 +33,8 @@ A setup to bring two flicked structures into the sky and mount them.
 ## Popular Variations
 
 > [!example] Stargaze
-> - **/** / cc -> UF2JM F1
+> - **/** / cc -> UF2J*M* F1
 > 
-> Variation that doesn't need Flowstone
+> Variation that doesn't need Flowstone. Mounting the second cube allows reaching the first one without flow.
 > 
 > <video controls loop autoplay muted><source src="https://files.catbox.moe/v2ef1b.mp4" type="video/mp4"> Your browser does not support the video tag. </video>

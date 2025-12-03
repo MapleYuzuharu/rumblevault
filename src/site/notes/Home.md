@@ -43,6 +43,7 @@
 > - [[Combo/Vanguard-Chamber\|Vanguard-Chamber]]
 > - [[Combo/Vermillion-Roll\|Vermillion-Roll]]
 > - [[Combo/Tidal-Pull\|Tidal-Pull]]
+> - [[Combo/Fenrir's Grasp\|Fenrir's Grasp]]
 > 
 { .block-language-dataview}
 ---
