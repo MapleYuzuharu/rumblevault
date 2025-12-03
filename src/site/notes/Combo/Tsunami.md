@@ -9,7 +9,7 @@ img wip
 > [!example] Maple's Vault Notation
 > -  \***FL** / cc OF2 -> m!.DJ F1
 >
-> where ! is "bring a flicked structure to your side"
+> where ! is "bring a flicked structure to your side or above you"
 ***
 
 A combination of Springless and Alley-Oop, summon two cubes, flick the bottom while walking back, then Flick the top as it falls below you, using the downward momentum of the cube to bring it around yourself.

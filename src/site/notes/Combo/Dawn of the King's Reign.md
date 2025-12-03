@@ -7,7 +7,7 @@ img wip
 
 
 > [!example] Maple's Vault Notation
-> -  **/** / wS c1w2F1t w3cwF4H5H2 -> DJJF3M
+> -  **FL** / wS c1w2F1t w3cwF4H5H2 -> DJ**J**F3M
 >
 ***
 
