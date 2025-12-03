@@ -7,7 +7,7 @@
 
 
 > [!example] Maple's Vault Notation
-> - VO **/** w1 c2 **->** E2 DuJ F1! uB
+> - **VO** / w1 c2 -> **E2** DuJ F1! uB
 >
 > where ! is "collide the wall with the explosive cube for push, then congeal state to mount"
 ***
@@ -28,6 +28,6 @@ With a wall, cube launch it before making the cube volatile. From there you can 
 
 ## Move Information
 **Inventor** : dingotime
-**School** : Eruption Bending: Phoenix Style
+**School** : Phoenix Style
 **Style** : [[NotationGuide#**Style** Aerial\|Aerial]]
 

@@ -4,8 +4,6 @@
 
 # **Maple's RUMBLE Vault**
 
-d
-
 
 > [!note]  **[[NotationGuide\|Notation Guide]]**
 
@@ -14,17 +12,18 @@ d
 properties:
   file.folder:
     displayName: Type
+  file.tags:
+    displayName: Tags
 views:
   - type: cards
     name: Gallery
     filters:
       or:
         - file.inFolder("Combo")
-        - file.inFolder("Player")
-        - file.inFolder("Fact")
     order:
       - file.name
       - file.folder
+      - file.tags
     sort:
       - property: file.folder
         direction: DESC
@@ -44,15 +43,18 @@ views:
 
 
 
-> [!info] All Pages
+> [!info] Page Index
 >  - [[Combo/Alley-Oop\|Alley-Oop]]
 > - [[Combo/Cliff-Cannon\|Cliff-Cannon]]
+> - [[Combo/Dice, Cross, & Cats\|Dice, Cross, & Cats]]
+> - [[Combo/Executioner's Solution\|Executioner's Solution]]
 > - [[Combo/Flick-God-Full-Ascension\|Flick-God-Full-Ascension]]
 > - [[Combo/Flick-Reversal\|Flick-Reversal]]
 > - [[Combo/Puppet-Master\|Puppet-Master]]
-> - [[Combo/Tidal-Pull\|Tidal-Pull]]
+> - [[Combo/Shinkansen\|Shinkansen]]
 > - [[Combo/Vanguard-Chamber\|Vanguard-Chamber]]
 > - [[Combo/Vermillion-Roll\|Vermillion-Roll]]
+> - [[Combo/Tidal-Pull\|Tidal-Pull]]
 > 
 { .block-language-dataview}
 ---

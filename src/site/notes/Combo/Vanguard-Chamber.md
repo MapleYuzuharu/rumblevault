@@ -6,11 +6,10 @@
 img wip
 
 > [!example] Maple's Vault Notation
-> -  CH-GU **/** FH_b1 {c/w/o}2 **->** g1 S2
->
+> -  **CH**-**GU** / FHb1 {s}2 -> g1 **S2**
 ***
 
-With an accompanying ball, an incoming projectile (wall or cube) can be stopped by perfect guarding your own ball and then super-straighting the incoming structure to fling it back at the opponent.
+With an accompanying ball, an incoming projectile can be stopped by perfect guarding your own ball and then super-straighting the incoming structure to fling it back at the opponent.
 
 **Should the projectile still hit you, your ball being guarded will result in a shorter stun-lock.**
 
@@ -24,6 +23,6 @@ With an accompanying ball, an incoming projectile (wall or cube) can be stopped 
 
 ## Move Information
 **Inventor** : Lemmi05
-**School** : ???
+**School** : Guard *x* Chambering
 **Style** : [[NotationGuide#**Style** RTS\|RTS]]
 

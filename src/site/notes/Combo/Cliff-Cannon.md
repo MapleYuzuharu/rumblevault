@@ -6,7 +6,7 @@
 
 
 > [!example] Maple's Vault Notation
-> -  / **/** o **->** HH ! !
+> -  **/** / o -> H*H* ! !
 > 
 > where the first ! is "hold the boulder above you with your elbows slightly bent"
 > where the second ! is "crouch and whip your wrist and arms forward"
@@ -24,7 +24,7 @@ If your motivation to destroy your opponent is stronger than the boulders motiva
 
 ## Move Information
 **Inventor** : Fjm12
-**School** : ???
+**School** : Path of the Stone Fist *(presumably)*
 **Style** : [[NotationGuide#**Style** Technique\|Technique]]
 
 ### Tutorial
@@ -33,14 +33,14 @@ If your motivation to destroy your opponent is stronger than the boulders motiva
 
 ## Popular Variations
 
-> [!example] Devil's Lob
-> - **/** / o1\[pppp\] **->** HH1 !1
-> 
-> where ! is "fling the structure forward and into the pillars"
-
-
 > [!example] Pivot Cannon
 > - **/** / o1 **->** HH1 ! uu
 > 
-> where ! is "hold the boulder above you"
-> <video controls loop autoplay muted>  <source src="https://files.catbox.moe/b1pvsv.mp4" type="video/mp4">  Your browser does not support the video tag.  </video>
+> where ! is "hold the boulder above you with your hands forward-ish"
+> <video controls loop autoplay muted>  <source src="  " type="video/mp4">  Your browser does not support the video tag.  </video>
+
+> [!example] Yoga Pivot Cannon
+> - **/** / o1 -> H*H*1 ! uu
+> 
+> where ! is "hold the boulder above you with your back arched back and arms far behind you"
+> <video controls loop autoplay muted>  <source src="https://files.catbox.moe/1k2sye.mp4" type="video/mp4">  Your browser does not support the video tag.  </video>

@@ -5,7 +5,7 @@
 ![puppet_master.png](/img/user/!source/puppet_master.png)
 
 > [!example] Maple's Vault Notation
-> - **/** / H\[s\] ! **->** !
+> - **/** / H\[s\] ! -> !
 > 
 > where the first ! is "being in the air"
 > where the second ! is "use hold hand to control the structure while in the air"
@@ -21,5 +21,5 @@ Holding a grounded structure, you can control it from the air, weaving it throug
 
 ## Move Information
 **Inventor** : shoeless
-**School** : Shoeless Dojo
+**School** : Puppetry
 **Style** : [[NotationGuide#**Style** Technique\|Technique]]

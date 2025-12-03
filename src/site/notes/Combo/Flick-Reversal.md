@@ -7,7 +7,7 @@ img wip
 
 
 > [!example] Maple's Vault Notation
-> -  **/** / ({s}) **->** ^ D T F !
+> -  **/** / ({s}) -> ^ D T F !
 >
 > where ! is "gesture the flicked structure right back at the enemy"
 ***
@@ -26,7 +26,7 @@ When you find an incoming ungrounded attack, you can dash towards your opponent 
 
 ## Move Information
 **Inventor** : shoeless
-**School** : Shoeless Dojo
+**School** : Shoeless Flick
 **Style** : [[NotationGuide#**Style** RTS\|RTS]]
 
 ## Popular Variations

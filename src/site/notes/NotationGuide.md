@@ -37,7 +37,7 @@ S - Straight
 P - Parry
 K - Kick
 H - Hold
-HH - Hold with both hands
+H*H* - Hold with both hands
 X - Unhold
 U - Uppercut
 F - Flick
@@ -62,24 +62,31 @@ J - Jump
 D - Dash
 B - Bump yourself with a structure
 M - Mount a structure in the air (denotes flight)
-W - Walk
+m - Walk
 T - Pivot/Turn
 u - Quick Turn (180-turn)
 ^ - Lock-on Turn
 
 **Special**
 g - Guard
-JJ - Double Jump with Flowstone
 -> - Next Notation Step
 ! - Placeholder for undocumented notation.
 ... - Wait
-_ - Wait for charge stone proc.
 = - Infinitely Repeatable (only at the end of a notation)
+**\*** - Use of shiftstone
+*\** - Mirrored pose (opposite dominant hand basically)
 
 **Numbering**
 Numbers after a structure during Setup Notation will assign that structure a number.
 Numbers after a modifier during Combo Notation will denote which structure to modify.
 Numbers after a ' ! ' refers to which note it is.
+
+**Reasons for major changes:**
+- Volatile vs Explosive structures for using debri from your opponent.
+- ... is more visible than a single . that may be missed.
+- Ability to indicate unholding structures.
+- Pre-rotated structures.
+AGAIN this is for THIS VAULT. This notation is not intended to be used outside the vault.
 
 ***
 ### Notation Order
