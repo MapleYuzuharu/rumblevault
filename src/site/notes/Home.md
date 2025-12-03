@@ -48,6 +48,7 @@
 > - [[Combo/Tsunami\|Tsunami]]
 > - [[Combo/Fairing Drop\|Fairing Drop]]
 > - [[Combo/Martian Dice\|Martian Dice]]
+> - [[Combo/King's Pawn\|King's Pawn]]
 > 
 { .block-language-dataview}
 ---
