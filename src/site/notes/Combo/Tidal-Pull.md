@@ -27,7 +27,7 @@ Most structures can be snagged easily without breaking the ball if the collision
 
 ### Move Information
 **Inventor** : DizzyDreaming
-**School** : Charge *x* Waterbending
+**School** : Waterbending
 **Style** : [[NotationGuide#**Style** Waterbending\|Waterbending]]
 
 

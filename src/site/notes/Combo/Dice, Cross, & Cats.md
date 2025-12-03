@@ -29,3 +29,12 @@ A setup to bring two flicked structures into the sky and mount them.
 **School** : Shoeless Flick
 **Style** : [[NotationGuide#**Style** Aerial\|Aerial]]
 
+
+## Popular Variations
+
+> [!example] Stargaze
+> - **/** / cc -> UF2JM F1
+> 
+> Variation that doesn't need Flowstone
+> 
+> <video controls loop autoplay muted><source src="https://files.catbox.moe/v2ef1b.mp4" type="video/mp4"> Your browser does not support the video tag. </video>

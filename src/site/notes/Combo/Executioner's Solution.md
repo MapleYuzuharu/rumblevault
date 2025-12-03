@@ -24,6 +24,6 @@ It's still recommended that you know flick only flight.
 
 ## Move Information
 **Inventor** : Maple Tree
-**School** : Puppetry *x* Jettison
+**School** : Jettison
 **Style** : [[NotationGuide#**Style** Aerial\|Aerial]]
 

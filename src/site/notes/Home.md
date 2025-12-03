@@ -8,35 +8,23 @@
 > [!note]  **[[NotationGuide\|Notation Guide]]**
 
 
-```base
-properties:
-  file.folder:
-    displayName: Type
-  file.tags:
-    displayName: Tags
-views:
-  - type: cards
-    name: Gallery
-    filters:
-      or:
-        - file.inFolder("Combo")
-    order:
-      - file.name
-      - file.folder
-      - file.tags
-    sort:
-      - property: file.folder
-        direction: DESC
-    image: note.Image
-    cardSize: 200
-    imageAspectRatio: 1
-    imageFit: ""
 
-```
-
-
-
-
+> [!quote] Message of the Day
+> Now seeking clips for moves!
+> Please send mp4/mkv videos to me in DMs on Discord or in my bender-bio channel in Shoeless Dojo.
+> You can use [Litterbox](<https://litterbox.catbox.moe/>) if you don't have nitro to send bigger files.
+> YouTube works too!
+> **Criteria for Clips**
+> - Clean and easily readable what is happening.
+> - No music or absurdly loud sounds.
+> - Preferably no exotic structure skins or other weird mods.
+> - Lab environment clips are actually encouraged! They often have more clarity.
+> - Overly optimized poses can sometimes make them difficult to learn from.
+> To sum it up, I'm looking for clips that can clearly convey what a move is to anyone seeking to learn it.
+> ----
+> `ismynameunique` on Discord
+> Search Maple Tree in the `#bender-bios` in Shoeless Dojo otherwise.
+> Note that I make pages when I find time, so don't be disappointed if you send me clips and I don't do anything with them for like a month =w=
 
 
 
