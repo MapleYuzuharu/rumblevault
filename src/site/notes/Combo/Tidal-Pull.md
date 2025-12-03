@@ -34,7 +34,7 @@ Most structures can be snagged easily without breaking the ball if the collision
 ## Popular Variations
 
 > [!example] Waterboard
-> - \***CH** / FHb1 (s)2 **->** S1 !2
+> - \***CH** / FHb1 (s)2 -> **S1** !2
 > <video controls loop autoplay muted><source src="https://files.catbox.moe/09u895.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
 > + Funny
 > - Hurts you instead of the enemy
