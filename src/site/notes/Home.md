@@ -44,6 +44,10 @@
 > - [[Combo/Vermillion-Roll\|Vermillion-Roll]]
 > - [[Combo/Tidal-Pull\|Tidal-Pull]]
 > - [[Combo/Fenrir's Grasp\|Fenrir's Grasp]]
+> - [[Combo/Dawn of the King's Reign\|Dawn of the King's Reign]]
+> - [[Combo/Tsunami\|Tsunami]]
+> - [[Combo/Fairing Drop\|Fairing Drop]]
+> - [[Combo/Martian Dice\|Martian Dice]]
 > 
 { .block-language-dataview}
 ---
