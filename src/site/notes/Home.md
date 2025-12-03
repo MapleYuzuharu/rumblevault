@@ -8,6 +8,36 @@
 > [!note]  **[[NotationGuide\|Notation Guide]]**
 
 
+```base
+properties:
+  file.folder:
+    displayName: Type
+  file.tags:
+    displayName: Tags
+views:
+  - type: cards
+    name: Gallery
+    filters:
+      or:
+        - file.inFolder("Combo")
+    order:
+      - file.name
+      - file.folder
+      - file.tags
+    sort:
+      - property: file.folder
+        direction: DESC
+    image: note.Image
+    cardSize: 200
+    imageAspectRatio: 1
+    imageFit: ""
+
+```
+
+
+
+
+
 
 
 
