@@ -7,7 +7,7 @@ img wip
 
 
 > [!example] Maple's Vault Notation
-> -  **/** / c -> .Kwcwcwcwcwcwc
+> -  **/** / -> c.Kwcwcwcwcwcwc
 >
 ***
 
