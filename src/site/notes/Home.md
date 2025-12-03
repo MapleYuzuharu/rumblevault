@@ -3,6 +3,13 @@
 ---
 
 # **Maple's RUMBLE Vault**
+The goal to document all of RUMBLE's tech and combos into one place.
+The ultimate study guide for players wanting to learn new moves.
+
+My notation is slightly different.
+// means no shifstones needed.
+**Bold** is for when a shiftstone is used.
+Amongst some other differences, refer to this notation guide if you get confused.
 
 
 > [!note]  **[[NotationGuide\|Notation Guide]]**
@@ -20,6 +27,8 @@
 > - Preferably no exotic structure skins or other weird mods.
 > - Lab environment clips are actually encouraged! They often have more clarity.
 > - Overly optimized poses can sometimes make them difficult to learn from.
+> - CANNOT BE MEDAL, INSIGHT, OR ANY OTHER CLIPPING SOFTWARE LINK, LOOK FOR THEIR SAVE FOLDER
+> 
 > To sum it up, I'm looking for clips that can clearly convey what a move is to anyone seeking to learn it.
 > ----
 > `ismynameunique` on Discord
@@ -28,7 +37,7 @@
 
 
 
-
+List view will be a gallery with filters eventually. For now just work with me while Obsidian finishes support for Bases in publishing.
 
 
 > [!info] Page Index
