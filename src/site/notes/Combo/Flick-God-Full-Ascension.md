@@ -10,6 +10,8 @@
 
 With flow stone equipped, dash jump, double jump and then flick an incoming structure of cube or above in durability, then bump yourself in any direction before landing the structure on your opponent as you land.
 
+**Those who've hit FGFA often experience severe Ascentia, similar to those removed from the timeline.**
+*Practice safety with flick!*
 
 <video controls loop autoplay muted>  
   <source src="https://files.catbox.moe/jzviqk.mp4" type="video/mp4">  
