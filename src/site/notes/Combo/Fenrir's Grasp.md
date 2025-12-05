@@ -8,7 +8,7 @@ img wip
 
 > [!example] Maple's Vault Notation
 > -  \***SU**-\***VI** / -> c.Kwcwcwcwcwcwc
->
+> reminder that '\*' indicates recommended but not needed shiftstones.
 ***
 
  True combo stunlock move, using a previously discovered state in stunlock known as "low pop", where you hit your opponent with 2 structures at the same time, the knockback from both structures cancel out and you can phase your opponent inside your wall cube spam and just MELT them
