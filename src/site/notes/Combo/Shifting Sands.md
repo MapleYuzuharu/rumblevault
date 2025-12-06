@@ -18,7 +18,7 @@ A mutation of both [[The Great Pyramid of Giza\|The Great Pyramid of Giza]] and 
 flowstone-less multi-structure that blitzes forward as a mount.
 
 
-**Can be done kick-less. (According to BoredYoshi at least).**
+**Hand position is difficult. Requires a combination of both yeehaw and joystick hand positioning to control.**
 
 <video controls loop autoplay muted><source src="https://files.catbox.moe/imbups.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
  - Clip of Neon Piano performing the move in a park.

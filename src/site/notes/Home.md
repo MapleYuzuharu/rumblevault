@@ -48,17 +48,17 @@ List view will be a gallery with filters eventually. For now just work with me w
 > - [[Combo/Executioner's Solution\|Executioner's Solution]]
 > - [[Combo/Fairing Drop\|Fairing Drop]]
 > - [[Combo/Fenrir's Grasp\|Fenrir's Grasp]]
-> - [[Combo/Flick-God-Full-Ascension\|Flick-God-Full-Ascension]]
 > - [[Combo/Flick-Reversal\|Flick-Reversal]]
+> - [[Combo/Flick-God-Full-Ascension\|Flick-God-Full-Ascension]]
 > - [[Combo/King's Pawn\|King's Pawn]]
-> - [[Combo/Martian Dice\|Martian Dice]]
 > - [[Combo/Puppet-Master\|Puppet-Master]]
+> - [[Combo/Martian Dice\|Martian Dice]]
 > - [[Combo/Shinkansen\|Shinkansen]]
 > - [[Combo/Shifting Sands\|Shifting Sands]]
 > - [[Combo/Tidal-Pull\|Tidal-Pull]]
-> - [[Combo/Tsunami\|Tsunami]]
-> - [[Combo/Vanguard-Chamber\|Vanguard-Chamber]]
 > - [[Combo/Vermillion-Roll\|Vermillion-Roll]]
+> - [[Combo/Vanguard-Chamber\|Vanguard-Chamber]]
+> - [[Combo/Tsunami\|Tsunami]]
 > 
 { .block-language-dataview}
 ---
