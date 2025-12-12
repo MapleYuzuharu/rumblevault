@@ -6,13 +6,41 @@
 The goal to document all of RUMBLE's tech and combos into one place.
 The ultimate study guide for players wanting to learn new moves.
 
-My notation is slightly different.
-// means no shifstones needed.
-**Bold** is for when a shiftstone is used.
-Amongst some other differences, refer to this notation guide if you get confused.
 
+pages are heavily wip so yeah
 
 > [!note]  **[[NotationGuide\|Notation Guide]]**
+
+
+
+
+List view will be a gallery with filters eventually. For now just work with me while Obsidian finishes support for Bases in publishing.
+
+
+> [!info] Page Index
+>  - [[Combo/Alley-Oop\|Alley-Oop]]
+> - [[Combo/Cliff-Cannon\|Cliff-Cannon]]
+> - [[Combo/Dawn of the King's Reign\|Dawn of the King's Reign]]
+> - [[Combo/Dice, Cross, & Cats\|Dice, Cross, & Cats]]
+> - [[Combo/Executioner's Solution\|Executioner's Solution]]
+> - [[Combo/Fairing Drop\|Fairing Drop]]
+> - [[Combo/Fenrir's Grasp\|Fenrir's Grasp]]
+> - [[Combo/Flick-God-Full-Ascension\|Flick-God-Full-Ascension]]
+> - [[Combo/Flick-Reversal\|Flick-Reversal]]
+> - [[Combo/King's Pawn\|King's Pawn]]
+> - [[Combo/Puppet-Master\|Puppet-Master]]
+> - [[Combo/Martian Dice\|Martian Dice]]
+> - [[Combo/Shifting Sands\|Shifting Sands]]
+> - [[Combo/Tidal-Pull\|Tidal-Pull]]
+> - [[Combo/Tsunami\|Tsunami]]
+> - [[Combo/Shinkansen\|Shinkansen]]
+> - [[Combo/Vanguard-Chamber\|Vanguard-Chamber]]
+> - [[Combo/Vermillion-Roll\|Vermillion-Roll]]
+> 
+{ .block-language-dataview}
+---
+
+
 
 
 
@@ -34,35 +62,4 @@ Amongst some other differences, refer to this notation guide if you get confused
 > `ismynameunique` on Discord
 > Search Maple Tree in the `#bender-bios` in Shoeless Dojo otherwise.
 > Note that I make pages when I find time, so don't be disappointed if you send me clips and I don't do anything with them for like a month =w=
-
-
-
-List view will be a gallery with filters eventually. For now just work with me while Obsidian finishes support for Bases in publishing.
-
-
-> [!info] Page Index
->  - [[Combo/Alley-Oop\|Alley-Oop]]
-> - [[Combo/Cliff-Cannon\|Cliff-Cannon]]
-> - [[Combo/Dawn of the King's Reign\|Dawn of the King's Reign]]
-> - [[Combo/Dice, Cross, & Cats\|Dice, Cross, & Cats]]
-> - [[Combo/Executioner's Solution\|Executioner's Solution]]
-> - [[Combo/Fairing Drop\|Fairing Drop]]
-> - [[Combo/Fenrir's Grasp\|Fenrir's Grasp]]
-> - [[Combo/Flick-Reversal\|Flick-Reversal]]
-> - [[Combo/Flick-God-Full-Ascension\|Flick-God-Full-Ascension]]
-> - [[Combo/King's Pawn\|King's Pawn]]
-> - [[Combo/Puppet-Master\|Puppet-Master]]
-> - [[Combo/Martian Dice\|Martian Dice]]
-> - [[Combo/Shinkansen\|Shinkansen]]
-> - [[Combo/Shifting Sands\|Shifting Sands]]
-> - [[Combo/Tidal-Pull\|Tidal-Pull]]
-> - [[Combo/Vermillion-Roll\|Vermillion-Roll]]
-> - [[Combo/Vanguard-Chamber\|Vanguard-Chamber]]
-> - [[Combo/Tsunami\|Tsunami]]
-> 
-{ .block-language-dataview}
----
-
-
-
 
