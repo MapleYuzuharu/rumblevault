@@ -32,7 +32,7 @@ With flow stone equipped, dash jump, double jump and then flick an incoming stru
 > 1. Catch an opponents incoming cube, wall or boulder when you are at least 80% jump height
 > 2. Use a double jump before falling below 80% of jump height
 > 3. Use said structure to gain aerial mobility - aerial sling, bump, mount - to immediately guide yourself towards your opponent. No flying around.
-> 4. Hit opponent on the full before or just after you hit the ground having committed to a final flail swing.
+> 4. Hit opponent on the fall before or just after you hit the ground having committed to a final flail swing.
 
 ## Popular Variations
 If you are wondering why some moves like **Weaver of Fate** are not in this list:
