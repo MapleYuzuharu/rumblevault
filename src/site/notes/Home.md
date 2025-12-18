@@ -18,13 +18,13 @@ List view will be a gallery with filters eventually. For now just work with me w
 
 
 > [!info] Page Index
->  - [[Combo/Cliff-Cannon\|Cliff-Cannon]]
-> - [[Combo/Alley-Oop\|Alley-Oop]]
+>  - [[Combo/Alley-Oop\|Alley-Oop]]
+> - [[Combo/Cliff-Cannon\|Cliff-Cannon]]
 > - [[Combo/Dawn of the King's Reign\|Dawn of the King's Reign]]
 > - [[Combo/Dice, Cross, & Cats\|Dice, Cross, & Cats]]
 > - [[Combo/Executioner's Solution\|Executioner's Solution]]
-> - [[Combo/Fenrir's Grasp\|Fenrir's Grasp]]
 > - [[Combo/Fairing Drop\|Fairing Drop]]
+> - [[Combo/Fenrir's Grasp\|Fenrir's Grasp]]
 > - [[Combo/Flick-God-Full-Ascension\|Flick-God-Full-Ascension]]
 > - [[Combo/King's Pawn\|King's Pawn]]
 > - [[Combo/Flick-Reversal\|Flick-Reversal]]
@@ -32,8 +32,8 @@ List view will be a gallery with filters eventually. For now just work with me w
 > - [[Combo/Novinalgy\|Novinalgy]]
 > - [[Combo/Puppet-Master\|Puppet-Master]]
 > - [[Combo/Shifting Sands\|Shifting Sands]]
-> - [[Combo/Tidal-Pull\|Tidal-Pull]]
 > - [[Combo/Shinkansen\|Shinkansen]]
+> - [[Combo/Tidal-Pull\|Tidal-Pull]]
 > - [[Combo/Tsunami\|Tsunami]]
 > - [[Combo/Vanguard-Chamber\|Vanguard-Chamber]]
 > - [[Combo/Vermillion-Roll\|Vermillion-Roll]]
