@@ -24,6 +24,6 @@ It's still recommended that you know flick only flight.
 
 ## Move Information
 **Inventor** : Maple Tree
-**School** : Jettison
+**School** : School of Hold *x* Shoeless Flick
 **Style** : [[NotationGuide#**Style** Aerial\|Aerial]]
 

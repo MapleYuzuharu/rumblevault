@@ -34,7 +34,7 @@ If your motivation to destroy your opponent is stronger than the boulders motiva
 ## Popular Variations
 
 > [!example] Pivot Cannon
-> - **/** / o1 **->** HH1 ! uu
+> - **/** / o1 **->** H*H*1 ! uu
 > 
 > where ! is "hold the boulder above you with your hands forward-ish"
 > <video controls loop autoplay muted>  <source src="  " type="video/mp4">  Your browser does not support the video tag.  </video>

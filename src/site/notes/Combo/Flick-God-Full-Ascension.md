@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/combo/flick-god-full-ascension/"}
 ---
 
-<img src="https://files.catbox.moe/so4ub7.png">
+<img src="https://files.catbox.moe/ndu2j0.png">
 
 
 > [!example] Maple's Vault Notation
