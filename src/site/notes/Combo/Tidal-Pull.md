@@ -26,7 +26,7 @@ Most structures can be snagged easily without breaking the ball if the collision
  - Tidal Pull on a freshly straighted cube in a real match. Performed by DizzyDreaming
 
 ### Move Information
-**Inventor** : DizzyDreaming
+**Inventor** : Popularized by DizzyDreaming
 **School** : Waterbending
 **Style** : [[NotationGuide#**Style** Waterbending\|Waterbending]]
 

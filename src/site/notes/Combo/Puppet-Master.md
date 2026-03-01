@@ -20,6 +20,6 @@ Holding a grounded structure, you can control it from the air, weaving it throug
  - Use of Puppet Master with a Flowstone double jump. Performed by Maple
 
 ## Move Information
-**Inventor** : shoeless
+**Inventor** : ??? (popularized by shoeless)
 **School** : Puppetry
 **Style** : [[NotationGuide#**Style** Technique\|Technique]]

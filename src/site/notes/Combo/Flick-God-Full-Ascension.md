@@ -48,7 +48,7 @@ Weavers are a special category separate from FGFA.
 > If a single component of FGFA is missing, it is a Partial Ascension. 
 > The structure being something below a cube in durability counts as a missing component.
 
-> [!example] Hold-to-Flick Pipeline Ascension : Hold-to-Flick Mobius Shift
+> [!example] Hold-to-Flick Pipeline Ascension
 > - **/**/ {c/w}1 "(s)"2 -> D J M2 B F1
 > <video controls loop autoplay muted>  <source src="https://files.catbox.moe/de2zd4.mp4" type="video/mp4">  Your browser does not support the video tag.  </video>
 > - Substitutes the Flowstone double jump with a hold flight bump.
